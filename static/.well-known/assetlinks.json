@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.ashidgroup.nany",
+               "sha256_cert_fingerprints": ["2A:D9:EB:CB:BB:28:E0:7C:F9:59:67:AB:A6:AD:98:F4:BF:DB:03:0B:CC:D5:40:29:2B:C6:52:0A:EB:6B:A1:9B"] }
+}]
