@@ -26,11 +26,11 @@ export default {
   ** Global CSS
   */
 
-  server: {
-    port: 3000, // default: 3000
-    host: '127.0.0.4', // default: localhost,
-    // timing: false
-  },
+//   server: {
+//     port: 3000, // default: 3000
+//     host: '127.0.0.4', // default: localhost,
+//     // timing: false
+//   },
 
   generate:{
     routes:['/']
