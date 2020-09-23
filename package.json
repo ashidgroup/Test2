@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "nuxt",
     "build": "npm run build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
+    "start": "npm run start",
+    "generate": "npm run generate"
   },
   "dependencies": {
     "@nuxtjs/auth": "^4.9.1",
